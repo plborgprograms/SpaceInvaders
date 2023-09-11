@@ -1,0 +1,12 @@
+
+Library/AnnotationManager
+*.apiupaterconfigs
+Lbrary/*
+Library
+Library/
+Temp
+Temp/
+Logs
+Logs/
+*.dag
+
